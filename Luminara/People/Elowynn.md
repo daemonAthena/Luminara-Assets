@@ -1,3 +1,0 @@
-## Elowynn
-
-Elowynn led people in captivity and the Valerans fled the Vaeloran coalition before the First Wayfire. She survived the Blooming War and lived as a contemporary of [[Seraphina|Princess Seraphina]]. In her honor, the province of Elowynn was named after her, similar to the way the U.S. states are named after Founding Fathers. Aurelia, another notable lieutenant, received the southern province containing the city of Eos in her honor.
