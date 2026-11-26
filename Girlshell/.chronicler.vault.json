@@ -1,6 +1,6 @@
 {
   "vaultSettings": {
-    "activeTheme": "Cyberpunk 2077",
+    "activeTheme": "hologram",
     "atmosphere": {
       "icons": "core",
       "buttons": "core",
@@ -15,10 +15,10 @@
       "textureOpacity": 1
     },
     "headingFont": "\"Orbitron\", sans-serif",
-    "bodyFont": "\"JetBrainsMonoNL NFM Regular\"",
+    "bodyFont": "\"IBM Plex Mono\", monospace",
     "editorFont": "\"IBM Plex Mono\", monospace",
-    "fontSize": 120,
-    "sidebarWidth": 306,
+    "fontSize": 115,
+    "sidebarWidth": 359,
     "isSidebarVisible": true,
     "isTocVisible": false,
     "areInfoboxTagsVisible": true,

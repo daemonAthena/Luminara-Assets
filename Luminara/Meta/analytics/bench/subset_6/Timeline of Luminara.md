@@ -1,0 +1,3 @@
+## Timeline of Luminara
+
+- [Elowynn](Elowynn.md) - Led people in captivity and fled the Vaeloran coalition before the First Wayfire. Survived the Blooming War and lived as a contemporary of [[Seraphina|Princess Seraphina]]. The province of Elowynn was named in her honor, similar to the way the U.S. states are named after Founding Fathers. She is also linked to the southern province of Eos containing the city of Eos, named after her peer, Lieutenant Aurelia.
