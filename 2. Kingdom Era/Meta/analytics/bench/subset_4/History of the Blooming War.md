@@ -1,0 +1,29 @@
+---
+title: "History of the Blooming War"
+tags: [ history, war ]
+---
+
+The Blooming War was fought on the island of Luminara between the transgender revolutionaries of Luminara and cisgender seeking to maintain the government of the Ancien Patriarchate. The war was fought as an opposition to the [[The Convent System]] which was implemented earlier in the year aiming to end self sustaining trans holdouts in rural ancien. When faced with organized resistance the government initiated a warplan known as the second wayfire which saw the torching of many trans villages. The trans femmes, in response, became migratory and organized a makeshift military deeper in the country lead by [[Seraphina|Princess Seraphina]] and her 4 generals. Under her leadership the supply lines of invading anciens were constantly raided allowing for the defeat in detail of invading forces. Asymetric warfare would become the defining aspect of Luminaran strategy.
+
+In response to the failing invasions, Ancien tried to build and deploy a new heavy cavalry unit called [[Blood and Fire Plan | Draconic Inquisitors]]. The newly formed Aurelian Intelligence Agency picked up on this and Luminarans responded by privateering the Grey Gulf using stolen ships from greatmill to cut off water supply lines. At this point Luminara shifted their attention to taking over the province of Greatmill by first provoking political instability among House Graci's vassals to make their response to invasion slow. In the second year of the war they took the province over, this would be the first time transgender women ruled a state since [[The First Wayfire]]. For their passivity the lives of the Graci were spared. Luminara managed a tenuous relationship with the former vassals of gracci who they relied upon for support in controlling the provinces. Many of the ambitious vassals had their titles expanded, rewarded with pieces of land owned by the Augsburgs and their allies in exchange for greater trans governance of the region. 
+
+After the success in Greatmill, Luminara turned its sites towards the provinces of Vichi and Wayfire. They were both heavily weakened by the cutting off of grain shipments so the provinces were taken in two new campaigns bringing cohesion to the trans resistance. Now that the bulwark of the trans state had become fortified, The luminarans had a free pool of womanpower to pull from. This is when they chose to force house Draco's surrender with the Bloodmarch campaign. While bloodmarch was a formidable foe with their Draconic Inquisitors Luminara effectively used propaganda to turn the lords of Bloodmarch against their rulers after a series of pitched battles fought uphill. 
+
+Following the collapse of all the major houses in Ancien, the final target was the capital with [[The Siege of Thronaria]]. The walls of Thronaria were forcefully broken down and at swordpoint the Grey Lord was forced to abdicate to the princess ending the Blooming War with a Luminaran victory.
+
+# Polities
+The State is the intersection of the major power centers. The ministers of Clergy, merchants, nobles, cities, and villages are all heard by the Grey Lord by varying degrees but the clergy hold a particularly high sway. The clergy is seen as the hammer of the people since they are bearers of knowledge and education. The Grey Lord is elected by the people through a rigged process in which the estates get the final say. The government gives the appearance of a democracy holding a national vote but the very mechanisms by which information is given to people and who gets to vote is controlled by the power holders themselves.
+# Macro Power Centers and Factions
+## The Outcasts
+People who exist outside of the norm excised from society by the clergy. Mostly Trans women on this island. They are atomized and separated with no leader or governing structure. Despite their low numbers their skills are unmatched. Trans femmes possess a great deal of knowledge about all the subjects which empower the clergy, burgers, nobility, metropolitans, and elders. In a sense they are the unheard academic elite. They are particularly skilled social theorists and philosophers. Some of the greatest philosophers in the history of this island were trans women burned at the stake or exiled. Trans women exist quietly in the middle of every strata of society.
+## Clergy
+Educated elites which possess moral authority. They have convinced the general populace that their immortal lives can be affected by their choices on earth. Using the scriptures of Christianity they guide and punish the morals of the commoner. They are governed by a plurality of conservative churches which petition the government. The most widely persuasive messages tend to win favor.
+## Merchants
+The bourgeoisie. Business owners, tradesmen, anyone who participates in commercial enterprise. Different resources and labour are managed in different guilds lead by those with the highest market share setting prices and standards which answer to the central governments authority.
+## Nobility
+Wealthy families who pass down castles, centers of authority which harbor military garrisons. Answer to their feudal lords and ultimately the autarch but are largely individual in their interests. Will band together to protect their class interests.
+## City Populous
+They manage projects only capable on a large densely populated scale. They are responsible for zoning and urban sprawl. They are capable of importing and exporting a lot of goods making them the essential centers of trade fueling the economy of the nation. They are centers of control which project their influence outwards to rural satelites. Controlled by Municipal Government.
+## Rural Populous
+They harvest the raw resources used to fuel urban growth and serve as essential resuply points for army. They are reliant on cities for demand and supply of non cultivated goods. Controlled by village councils of elders.
+

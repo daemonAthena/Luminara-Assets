@@ -1,0 +1,2030 @@
+{
+  "exportId": "j39ng5eq4n5f9sjyqh7gzgoh",
+  "exportedAt": "2026-11-26T19:47:01.533Z",
+  "version": 1,
+  "resources": [
+    {
+      "id": "mw1q48fr",
+      "name": "Luminara Timeline",
+      "iconGlyph": "hourglass",
+      "color": "#8b5cf6",
+      "documents": [
+        {
+          "id": "qigeqgp8",
+          "name": "Luminara Timeline",
+          "type": "time",
+          "calendarId": "gnxfx2fd",
+          "content": {
+            "events": [
+              {
+                "name": "Ancient Stellar Empire",
+                "start": -105190560,
+                "end": -10519200,
+                "color": "#831843",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "star-sharp",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "o3c66o9j",
+                "sourceUri": "",
+                "pos": "a0"
+              },
+              {
+                "name": "Apocalypse",
+                "start": -10294153,
+                "end": -301993,
+                "color": "#581C87",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "syringe",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "d89mln42",
+                "sourceUri": "",
+                "pos": "a1"
+              },
+              {
+                "name": "Palatial Era",
+                "start": 0,
+                "end": 55440000,
+                "color": "#93C5FD",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "pedestal",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "htncaqz7",
+                "sourceUri": "",
+                "pos": "Zx"
+              },
+              {
+                "name": "Vaeloran Coalition",
+                "start": 55454400,
+                "end": 157127040,
+                "color": "#0079CC",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "chart-network",
+                "layer": 0,
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "iodkpbt6",
+                "sourceUri": "",
+                "pos": "Zy"
+              },
+              {
+                "name": "Valeran Republic",
+                "start": 157258080,
+                "end": 173036160,
+                "color": "#0079CC",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "fish",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "pv1ejrs5",
+                "sourceUri": "",
+                "pos": "Zz"
+              },
+              {
+                "name": "First Wayfire",
+                "start": 157258080,
+                "end": 167888160,
+                "color": "#134E4A",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "fire",
+                "layer": 1,
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "b5a3ji7i",
+                "sourceUri": "",
+                "pos": "a2"
+              },
+              {
+                "name": "General Trans Exile",
+                "start": 173036160,
+                "end": 221424480,
+                "color": "#134E4A",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "tree-deciduous",
+                "layer": 2,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.25,
+                "data": {},
+                "id": "olnwlmdf",
+                "sourceUri": "",
+                "pos": "a3"
+              },
+              {
+                "name": "Ancien Patriarchate",
+                "start": 45842566,
+                "end": 221424480,
+                "color": "#737373",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "scroll-old",
+                "layer": 2,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "bjvk0hh0",
+                "sourceUri": "",
+                "pos": "a4"
+              },
+              {
+                "name": "Galactic Age",
+                "start": 441270720,
+                "end": 472828320,
+                "color": "#A855F7",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "galaxy",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "ynuxshxj",
+                "sourceUri": "",
+                "pos": "Zv"
+              },
+              {
+                "name": "Space Age",
+                "start": 409713120,
+                "end": 441270720,
+                "color": "#262626",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "moon-stars",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "j8cvih66",
+                "sourceUri": "",
+                "pos": "Zu"
+              },
+              {
+                "name": "The Rebuilding",
+                "start": 372896640,
+                "end": 409713120,
+                "color": "#FCD34D",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "power-off",
+                "layer": 1,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "giwdybom",
+                "sourceUri": "",
+                "pos": "a5"
+              },
+              {
+                "name": "Anarchy",
+                "start": 372896640,
+                "end": 472828320,
+                "color": "#000000",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "brake-warning",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.25,
+                "data": {},
+                "id": "jf7c7hmn",
+                "sourceUri": "",
+                "pos": "a6"
+              },
+              {
+                "name": "Destruction of the Palladium",
+                "start": 372896640,
+                "color": "#A855F7",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "transgender",
+                "layer": 2,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "v80ajv0s",
+                "sourceUri": "",
+                "pos": "a7"
+              },
+              {
+                "name": "Council of Angels",
+                "start": 315043200,
+                "end": 372896640,
+                "color": "#581C87",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "angel",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "qgyi5iub",
+                "sourceUri": "",
+                "pos": "a6"
+              },
+              {
+                "name": "Biomechanical Revolution",
+                "start": 336080160,
+                "end": 372896640,
+                "color": "#134E4A",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "dna",
+                "layer": 1,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "xyhp9vs1",
+                "sourceUri": "",
+                "pos": "a8"
+              },
+              {
+                "name": "Girl Mobilization",
+                "start": 358171200,
+                "end": 372896640,
+                "color": "#EC4899",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "swords-laser",
+                "layer": 2,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "kpdkoqwy",
+                "sourceUri": "",
+                "pos": "a9"
+              },
+              {
+                "name": "Sakuya Dies",
+                "start": 341340480,
+                "color": "#FFFFFF",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "sword",
+                "layer": 2,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "dnbiwex0",
+                "sourceUri": "",
+                "pos": "aA"
+              },
+              {
+                "name": "AI Revolution",
+                "start": 304524000,
+                "end": 336080160,
+                "color": "#FFFFFF",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "hexagon-nodes",
+                "layer": 1,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "gybdhuwh",
+                "sourceUri": "",
+                "pos": "aB"
+              },
+              {
+                "name": "Kingdom of Luminara",
+                "start": 221424480,
+                "end": 315043200,
+                "color": "#F9A8D4",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "flower",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "xh5mqph5",
+                "sourceUri": "",
+                "pos": "aP"
+              },
+              {
+                "name": "The Recovery",
+                "start": 221424480,
+                "end": 248774400,
+                "color": "#F9A8D4",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "flask-round-potion",
+                "layer": 1,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.25,
+                "data": {},
+                "id": "qtewzhah",
+                "sourceUri": "",
+                "pos": "aPV"
+              },
+              {
+                "name": "Industrial Revolution",
+                "start": 238647974,
+                "end": 275597280,
+                "color": "#EF4444",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "industry-windows",
+                "layer": 1,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.25,
+                "data": {},
+                "id": "z6g9j14b",
+                "sourceUri": "",
+                "pos": "aQ"
+              },
+              {
+                "name": "Computational Revolution",
+                "start": 275597280,
+                "end": 304524000,
+                "color": "#93C5FD",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "computer",
+                "layer": 2,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "pjd8sp4k",
+                "sourceUri": "",
+                "pos": "aR"
+              },
+              {
+                "name": "1st Cognitive Simulation",
+                "start": 304524000,
+                "color": "#FFFFFF",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "brain-circuit",
+                "layer": 2,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "zgyritze",
+                "sourceUri": "",
+                "pos": "aS"
+              },
+              {
+                "name": "Excision of Tyndaraea",
+                "start": 253506240,
+                "color": "#000000",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "angel",
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "z340a774",
+                "sourceUri": "",
+                "pos": "ac"
+              },
+              {
+                "name": "Angelic Insurrection",
+                "start": 315036000,
+                "color": "#0079CC",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "angel",
+                "layer": 2,
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "ac6iprhf",
+                "sourceUri": "",
+                "pos": "ad"
+              },
+              {
+                "name": "X0_Anon: Palladium Created",
+                "start": 314517600,
+                "color": "#D4D4D4",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "user-beard-bolt",
+                "layer": 2,
+                "detail": 2,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "hmhfv6mg",
+                "sourceUri": "",
+                "pos": "ae"
+              },
+              {
+                "name": "Zenia & Sakuya Meet",
+                "start": 311888160,
+                "color": "#A855F7",
+                "laneId": "zu1w2zkr",
+                "iconGlyph": "child-dress",
+                "layer": 2,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "o9ajmv24",
+                "sourceUri": "",
+                "pos": "af"
+              },
+              {
+                "name": "Vaelora Founded",
+                "start": 2880,
+                "color": "#EC4899",
+                "laneId": "1f229xn",
+                "iconGlyph": "ship",
+                "layer": 0,
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "erx7sr4i",
+                "sourceUri": "",
+                "pos": "a0"
+              },
+              {
+                "name": "Founding of Luminaris",
+                "start": 41679360,
+                "color": "#14B8A6",
+                "laneId": "1f229xn",
+                "iconGlyph": "city",
+                "layer": 0,
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "sd9ucf1q",
+                "sourceUri": "",
+                "pos": "Zz"
+              },
+              {
+                "name": "Blooming War",
+                "start": 220371840,
+                "end": 221424480,
+                "color": "#F9A8D4",
+                "laneId": "1f229xn",
+                "iconGlyph": "flower",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "xix5mg6t",
+                "sourceUri": "",
+                "pos": "Zy"
+              },
+              {
+                "name": "Artemis Adopts Calantha",
+                "start": 168285600,
+                "color": "#14B8A6",
+                "laneId": "1f229xn",
+                "iconGlyph": "handshake-angle",
+                "layer": 0,
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "czreep39",
+                "sourceUri": "",
+                "pos": "Zx"
+              },
+              {
+                "name": "Gorgon Attacks",
+                "start": 358171200,
+                "color": "#581C87",
+                "laneId": "1f229xn",
+                "iconGlyph": "alien-8bit",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "end22l5e",
+                "sourceUri": "",
+                "pos": "Zw"
+              },
+              {
+                "name": "Return of Zenia",
+                "start": 367637760,
+                "end": 378155520,
+                "color": "#D8B4FE",
+                "laneId": "1f229xn",
+                "iconGlyph": "crown",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "rnxuvp0c",
+                "sourceUri": "",
+                "pos": "Zv"
+              },
+              {
+                "name": "Reign of Seraphina",
+                "start": 221424480,
+                "end": 237202560,
+                "color": "#F9A8D4",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "kbyj21l1",
+                "sourceUri": "",
+                "pos": "a1"
+              },
+              {
+                "name": "Reign of Martha",
+                "start": 237202560,
+                "end": 247721760,
+                "color": "#0079CC",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "qmdrxnf7",
+                "sourceUri": "",
+                "pos": "a3"
+              },
+              {
+                "name": "Reign of Rosa",
+                "start": 253507680,
+                "end": 261397440,
+                "color": "#ec003d",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "wt2et8ow",
+                "sourceUri": "",
+                "pos": "a8"
+              },
+              {
+                "name": "Reign of Sophia",
+                "start": 287693280,
+                "end": 300843360,
+                "color": "#93C5FD",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "pyvalzkf",
+                "sourceUri": "",
+                "pos": "a6"
+              },
+              {
+                "name": "Reign of Ada Augusta",
+                "start": 274019040,
+                "end": 287693280,
+                "color": "#FFFFFF",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "k6jr89yu",
+                "sourceUri": "",
+                "pos": "a5"
+              },
+              {
+                "name": "Reign of Francesca",
+                "start": 261397440,
+                "end": 274019040,
+                "color": "#5EEAD4",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "rxp3cdat",
+                "sourceUri": "",
+                "pos": "a9"
+              },
+              {
+                "name": "Reign of Lucretia",
+                "start": 300843360,
+                "end": 313992000,
+                "color": "#7F1D1D",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "v55q8agu",
+                "sourceUri": "",
+                "pos": "a4"
+              },
+              {
+                "name": "Reign of Tyndaraea",
+                "start": 247721760,
+                "end": 253507680,
+                "color": "#FCD34D",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "y4e3pt38",
+                "sourceUri": "",
+                "pos": "a7"
+              },
+              {
+                "name": "First Shell",
+                "start": 354489120,
+                "color": "#93C5FD",
+                "laneId": "1f229xn",
+                "iconGlyph": "gear",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "loihj0d5",
+                "sourceUri": "",
+                "pos": "Zu"
+              },
+              {
+                "name": "Study under Sakuya",
+                "start": 335554560,
+                "color": "#FFFFFF",
+                "laneId": "1f229xn",
+                "iconGlyph": "atom",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "w7rlpj2q",
+                "sourceUri": "",
+                "pos": "Zt"
+              },
+              {
+                "name": "School of Excellence Founded",
+                "start": 325560960,
+                "color": "#5EEAD4",
+                "laneId": "1f229xn",
+                "iconGlyph": "book-open-cover",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "wk78nika",
+                "sourceUri": "",
+                "pos": "Zs"
+              },
+              {
+                "name": "Reign of Zenia",
+                "start": 313992000,
+                "end": 315036000,
+                "color": "#A855F7",
+                "laneId": "1f229xn",
+                "iconGlyph": "transgender",
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "o0srn0r6",
+                "sourceUri": "",
+                "pos": "a2"
+              },
+              {
+                "name": "Zenia Exiled",
+                "start": 315036000,
+                "color": "#5EEAD4",
+                "laneId": "1f229xn",
+                "iconGlyph": "person-rifle",
+                "layer": 0,
+                "detail": 3,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "qnvuv11z",
+                "sourceUri": "",
+                "end": 315568800,
+                "pos": "Zr"
+              },
+              {
+                "name": "Life of Nadia",
+                "start": 326088000,
+                "end": 372371040,
+                "color": "#262626",
+                "laneId": "374296h",
+                "iconGlyph": "person-rifle",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "v8srz1v2",
+                "sourceUri": "",
+                "pos": "Zz"
+              },
+              {
+                "name": "Sakuya",
+                "start": 302420160,
+                "end": 341340480,
+                "color": "#FFFFFF",
+                "laneId": "374296h",
+                "iconGlyph": "atom",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "fnjiigv2",
+                "sourceUri": "",
+                "pos": "a0"
+              },
+              {
+                "name": "Belial",
+                "start": 356592960,
+                "end": 372896640,
+                "color": "#000000",
+                "laneId": "374296h",
+                "iconGlyph": "face-angry-horns",
+                "layer": 1,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "x3mi0k0t",
+                "sourceUri": "",
+                "pos": "a1"
+              },
+              {
+                "name": "Life of Metiz",
+                "start": 322405920,
+                "end": 372371040,
+                "color": "#D4D4D4",
+                "laneId": "374296h",
+                "iconGlyph": "atom",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "t8r11h0m",
+                "sourceUri": "",
+                "pos": "a6"
+              },
+              {
+                "name": "Life of Nul",
+                "start": 328191840,
+                "end": 358171200,
+                "color": "#D4D4D4",
+                "laneId": "374296h",
+                "iconGlyph": "empty-set",
+                "layer": 3,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "x096d2zq",
+                "sourceUri": "",
+                "pos": "a7"
+              },
+              {
+                "name": "Life of Ampersat",
+                "start": 355541760,
+                "end": 376051680,
+                "color": "#ec003d",
+                "laneId": "374296h",
+                "iconGlyph": "arrow-rotate-right",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "r2wnzs9z",
+                "sourceUri": "",
+                "pos": "a7"
+              },
+              {
+                "name": "Aeonna",
+                "start": 343969920,
+                "end": 375526080,
+                "color": "#ec003d",
+                "laneId": "r4k2545c",
+                "iconGlyph": "venus",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "jfvto5d2",
+                "sourceUri": "",
+                "pos": "Zx"
+              },
+              {
+                "name": "Life of Themis",
+                "start": 317672640,
+                "end": 372896640,
+                "color": "#D8B4FE",
+                "laneId": "r4k2545c",
+                "iconGlyph": "person-dress-fairy",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "fdcbwm3o",
+                "sourceUri": "",
+                "pos": "Zy"
+              },
+              {
+                "name": "Life of Ahavah",
+                "start": 310309920,
+                "end": 372896640,
+                "color": "#0079CC",
+                "laneId": "r4k2545c",
+                "iconGlyph": "podium",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "cnkz0qxz",
+                "sourceUri": "",
+                "pos": "Zz"
+              },
+              {
+                "name": "Life of Mina",
+                "start": 354489120,
+                "end": 391305600,
+                "color": "#F9A8D4",
+                "laneId": "r4k2545c",
+                "iconGlyph": "cat",
+                "layer": 0,
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 0.5,
+                "data": {},
+                "id": "lgr5mv92",
+                "sourceUri": "",
+                "pos": "a0"
+              },
+              {
+                "name": "Life of Cercei",
+                "start": 302420160,
+                "end": 372896640,
+                "color": "#737373",
+                "laneId": "r4k2545c",
+                "iconGlyph": "hand-holding-magic",
+                "detail": 1,
+                "imageUrl": "",
+                "imageFit": "cover",
+                "type": "event",
+                "isSynced": false,
+                "opacity": 1,
+                "data": {},
+                "id": "mqu55vx8",
+                "sourceUri": "",
+                "pos": "aA"
+              }
+            ],
+            "lanes": [
+              {
+                "id": "zu1w2zkr",
+                "name": "Stellar Empire",
+                "size": "sm",
+                "isCollapsed": false,
+                "pos": "E"
+              },
+              {
+                "id": "1f229xn",
+                "name": "Council Era",
+                "size": "sm",
+                "sourceUri": "",
+                "isCollapsed": false,
+                "pos": "F"
+              },
+              {
+                "id": "374296h",
+                "name": "Group 3",
+                "size": "sm",
+                "sourceUri": "",
+                "pos": "FS"
+              },
+              {
+                "id": "r4k2545c",
+                "size": "sm",
+                "name": "Group 4",
+                "sourceUri": "",
+                "pos": "Gm"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "calendars": [
+    {
+      "id": "harptos",
+      "name": "Harptos",
+      "hoursInDay": 24,
+      "minutesInHour": 60,
+      "hasZeroYear": false,
+      "format": {
+        "id": "default",
+        "year": "YYYY",
+        "month": "MMMM YYYY",
+        "day": "MMMM D^, YYYY",
+        "time": "MMMM D^, YYYY, HH:mm"
+      },
+      "halfClock": false,
+      "weekdays": [
+        {
+          "id": "i",
+          "name": "I"
+        },
+        {
+          "id": "ii",
+          "name": "II"
+        },
+        {
+          "id": "iii",
+          "name": "III"
+        },
+        {
+          "id": "iv",
+          "name": "IV"
+        },
+        {
+          "id": "v",
+          "name": "V"
+        },
+        {
+          "id": "vi",
+          "name": "VI"
+        },
+        {
+          "id": "vii",
+          "name": "VII"
+        },
+        {
+          "id": "viii",
+          "name": "VIII"
+        },
+        {
+          "id": "ix",
+          "name": "IX"
+        },
+        {
+          "id": "x",
+          "name": "X"
+        }
+      ],
+      "epochWeekday": 0,
+      "weekResetsEachMonth": true,
+      "months": [
+        {
+          "id": "hammer",
+          "name": "Hammer",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "midwinter",
+          "name": "Midwinter",
+          "isIntercalary": true,
+          "length": 1,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "alturiak",
+          "name": "Alturiak",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "spring-equinox",
+          "name": "Ches",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "tarsakh",
+          "name": "Tarsak",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "greengrass",
+          "name": "Greengrass",
+          "isIntercalary": true,
+          "length": 1,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "mirtul",
+          "name": "Mirtul",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "summer-solstice",
+          "name": "Kythorn",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "flamerule",
+          "name": "Flamerule",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "midsummer",
+          "name": "Midsummer",
+          "isIntercalary": true,
+          "length": 1,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "shieldmeet",
+          "name": "Eleasis",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "eleasis",
+          "name": "Eleint",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "autumn-equinox",
+          "name": "Highharvestide",
+          "isIntercalary": true,
+          "length": 1,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "highharvestide",
+          "name": "Marpenoth",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "uktar",
+          "name": "Uktar",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "feast-of-the-moon",
+          "name": "The Feast of the Moon",
+          "isIntercalary": true,
+          "length": 1,
+          "interval": 1,
+          "offset": 1
+        },
+        {
+          "id": "nightal",
+          "name": "Nightal",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 1
+        }
+      ],
+      "leapDays": [
+        {
+          "id": "midwinter-leap-day",
+          "name": "Shieldsmeet",
+          "intercalary": false,
+          "month": 9,
+          "addsWeekDay": false,
+          "day": 0,
+          "weekDay": "",
+          "interval": "4",
+          "offset": 0
+        }
+      ],
+      "positiveEras": [
+        {
+          "id": "DR",
+          "abbr": "DR",
+          "name": "Dale Reckoning",
+          "hideAbbr": false,
+          "startsAt": 0,
+          "resetMode": "none"
+        }
+      ],
+      "maxMinutes": 1577352960
+    },
+    {
+      "id": "exandria",
+      "name": "Exandria",
+      "description": "Calendar of the Exandria setting from Critical Role",
+      "hoursInDay": 24,
+      "minutesInHour": 60,
+      "hasZeroYear": true,
+      "epochWeekday": 0,
+      "halfClock": false,
+      "format": {
+        "id": "american-verbose",
+        "time": "MMMM D^, YYYY E, HH:mm",
+        "year": "YYYY",
+        "month": "MMMM YYYY",
+        "day": "MMMM D^, YYYY E"
+      },
+      "weekdays": [
+        {
+          "id": "miresen",
+          "name": "Miresen"
+        },
+        {
+          "id": "grissen",
+          "name": "Grissen"
+        },
+        {
+          "id": "whelsen",
+          "name": "Whelsen"
+        },
+        {
+          "id": "conthsen",
+          "name": "Conthsen"
+        },
+        {
+          "id": "folsen",
+          "name": "Folsen"
+        },
+        {
+          "id": "yulisen",
+          "name": "Yulisen"
+        },
+        {
+          "id": "dasen",
+          "name": "Da'sen"
+        }
+      ],
+      "months": [
+        {
+          "id": "horisal",
+          "name": "Horisal",
+          "isIntercalary": false,
+          "length": 29,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "misuthar",
+          "name": "Misuthar",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "dualahei",
+          "name": "Dualahei",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "thunsheer",
+          "name": "Thunsheer",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "unndilar",
+          "name": "Unndilar",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "brussendar",
+          "name": "Brussendar",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "sydenstar",
+          "name": "Sydenstar",
+          "isIntercalary": false,
+          "length": 32,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "fessuran",
+          "name": "Fessuran",
+          "isIntercalary": false,
+          "length": 29,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "quen'pillar",
+          "name": "Quen'pillar",
+          "isIntercalary": false,
+          "length": 27,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "cuersaar",
+          "name": "Cuersaar",
+          "isIntercalary": false,
+          "length": 29,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "duscar",
+          "name": "Duscar",
+          "isIntercalary": false,
+          "length": 32,
+          "interval": 1,
+          "offset": 0
+        }
+      ],
+      "leapDays": [],
+      "positiveEras": [
+        {
+          "id": "PD",
+          "abbr": "PD",
+          "name": "Post-Divergence",
+          "resetMode": "none",
+          "hideAbbr": false,
+          "startsAt": 0
+        }
+      ],
+      "maxMinutes": 970074720
+    },
+    {
+      "id": "eberron",
+      "name": "Eberron",
+      "description": "Calendar of the Eberron setting with 12 months of 28 days and 7 special festival days",
+      "hoursInDay": 24,
+      "minutesInHour": 60,
+      "hasZeroYear": false,
+      "epochWeekday": 0,
+      "halfClock": false,
+      "format": {
+        "id": "american-verbose",
+        "time": "MMMM D^, YYYY E, HH:mm",
+        "year": "YYYY",
+        "month": "MMMM YYYY",
+        "day": "MMMM D^, YYYY E"
+      },
+      "weekdays": [
+        {
+          "id": "sul",
+          "name": "Sul"
+        },
+        {
+          "id": "mol",
+          "name": "Mol"
+        },
+        {
+          "id": "zol",
+          "name": "Zol"
+        },
+        {
+          "id": "wir",
+          "name": "Wir"
+        },
+        {
+          "id": "zor",
+          "name": "Zor"
+        },
+        {
+          "id": "far",
+          "name": "Far"
+        },
+        {
+          "id": "sar",
+          "name": "Sar"
+        }
+      ],
+      "months": [
+        {
+          "id": "zarantyr",
+          "name": "Zarantyr",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "olarune",
+          "name": "Olarune",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "therendor",
+          "name": "Therendor",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "eyre",
+          "name": "Eyre",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "dravago",
+          "name": "Dravago",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "nymm",
+          "name": "Nymm",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "lharvion",
+          "name": "Lharvion",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "barrakas",
+          "name": "Barrakas",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "rhaan",
+          "name": "Rhaan",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "sypheros",
+          "name": "Sypheros",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "aryth",
+          "name": "Aryth",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "vult",
+          "name": "Vult",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        }
+      ],
+      "leapDays": [],
+      "positiveEras": [
+        {
+          "id": "YK",
+          "abbr": "YK",
+          "name": "Year of the Kingdom",
+          "resetMode": "none",
+          "hideAbbr": false,
+          "startsAt": 0
+        }
+      ],
+      "maxMinutes": 998860320
+    },
+    {
+      "id": "gregorian",
+      "name": "Gregorian",
+      "hoursInDay": 24,
+      "minutesInHour": 60,
+      "hasZeroYear": false,
+      "halfClock": true,
+      "format": {
+        "id": "american-verbose",
+        "time": "MMMM D^, YYYY E, HH:mm",
+        "year": "YYYY E",
+        "month": "MMMM YYYY E",
+        "day": "MMMM D^, YYYY E"
+      },
+      "moons": [
+        {
+          "id": "luna",
+          "name": "Moon",
+          "phase": 42524.0463,
+          "shift": 15238,
+          "color": "#FFFFFF"
+        }
+      ],
+      "epochWeekday": 1,
+      "weekdays": [
+        {
+          "id": "sun",
+          "name": "Sunday"
+        },
+        {
+          "id": "mon",
+          "name": "Monday"
+        },
+        {
+          "id": "tue",
+          "name": "Tuesday"
+        },
+        {
+          "id": "wed",
+          "name": "Wednesday"
+        },
+        {
+          "id": "thu",
+          "name": "Thursday"
+        },
+        {
+          "id": "fri",
+          "name": "Friday"
+        },
+        {
+          "id": "sat",
+          "name": "Saturday"
+        }
+      ],
+      "months": [
+        {
+          "id": "jan",
+          "name": "January",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "feb",
+          "name": "February",
+          "isIntercalary": false,
+          "length": 28,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "mar",
+          "name": "March",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "apr",
+          "name": "April",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "may",
+          "name": "May",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "jun",
+          "name": "June",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "jul",
+          "name": "July",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "aug",
+          "name": "August",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "sep",
+          "name": "September",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "oct",
+          "name": "October",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "nov",
+          "name": "November",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "dec",
+          "name": "December",
+          "isIntercalary": false,
+          "length": 31,
+          "interval": 1,
+          "offset": 0
+        }
+      ],
+      "leapDays": [
+        {
+          "id": "leap-day",
+          "name": "Leap Day",
+          "intercalary": false,
+          "month": 1,
+          "addsWeekDay": false,
+          "day": 0,
+          "weekDay": "",
+          "interval": "400,!100,4",
+          "offset": 0
+        }
+      ],
+      "negativeEra": {
+        "id": "bc",
+        "abbr": "BCE",
+        "name": "Before Common Era",
+        "hideAbbr": false,
+        "resetMode": "none",
+        "startsAt": -756864000
+      },
+      "positiveEras": [
+        {
+          "id": "AD",
+          "abbr": "CE",
+          "name": "Common Era",
+          "resetMode": "none",
+          "hideAbbr": false,
+          "startsAt": 0
+        }
+      ],
+      "maxMinutes": 2103269760
+    },
+    {
+      "id": "gnxfx2fd",
+      "name": "Luminara",
+      "hasZeroYear": false,
+      "epochWeekday": 0,
+      "weekResetsEachMonth": true,
+      "months": [
+        {
+          "id": "jan",
+          "name": "Blossoming",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "feb",
+          "name": "Flurry",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "mar",
+          "name": "Dreaming",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "apr",
+          "name": "Luminary",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "may",
+          "name": "Sweetening",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "jun",
+          "name": "Sagacity",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "jul",
+          "name": "Gilding",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "aug",
+          "name": "Frigidity",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "sep",
+          "name": "Silvering",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "oct",
+          "name": "Nocturn",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "nov",
+          "name": "Umbery",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "dec",
+          "name": "Emerging",
+          "isIntercalary": false,
+          "length": 30,
+          "interval": 1,
+          "offset": 0
+        },
+        {
+          "id": "yoiybhwh",
+          "name": "Transition",
+          "length": 5,
+          "isIntercalary": false,
+          "interval": 1,
+          "offset": 0
+        }
+      ],
+      "leapDays": [
+        {
+          "id": "hlwfcym8",
+          "name": "Sextile",
+          "month": 12,
+          "interval": "400,!100,4",
+          "offset": 0,
+          "day": 1,
+          "addsWeekDay": false,
+          "intercalary": false,
+          "weekDay": ""
+        }
+      ],
+      "weekdays": [
+        {
+          "id": "sun",
+          "name": "Artemsday"
+        },
+        {
+          "id": "mon",
+          "name": "Lunasday"
+        },
+        {
+          "id": "tue",
+          "name": "Zeiasday"
+        },
+        {
+          "id": "wed",
+          "name": "Daciasday"
+        },
+        {
+          "id": "thu",
+          "name": "Athensday"
+        },
+        {
+          "id": "fri",
+          "name": "Neosday"
+        }
+      ],
+      "hoursInDay": 24,
+      "format": {
+        "id": "full-formal-era",
+        "time": "DDDD, MMMM D^, YYYY E [at] HH:mm",
+        "year": "YYYY E",
+        "month": "MMMM, YYYY E",
+        "day": "DDDD, MMMM D^, YYYY E"
+      },
+      "halfClock": true,
+      "minutesInHour": 60,
+      "positiveEras": [
+        {
+          "id": "AD",
+          "abbr": "E1",
+          "name": "Founding Era",
+          "resetMode": "none",
+          "hideAbbr": false,
+          "startsAt": 0
+        },
+        {
+          "id": "tund3x53",
+          "name": "Kingdom Era",
+          "abbr": "E2",
+          "hideAbbr": false,
+          "startsAt": 157258080,
+          "resetMode": "none"
+        },
+        {
+          "id": "zzyq07o5",
+          "name": "Council Era",
+          "abbr": "E3",
+          "hideAbbr": false,
+          "startsAt": 315043200,
+          "resetMode": "none"
+        }
+      ],
+      "moons": [
+        {
+          "id": "luna",
+          "name": "Moon",
+          "phase": 42524.0463,
+          "shift": 15238,
+          "color": "#FFFFFF"
+        }
+      ],
+      "maxMinutes": 472828320,
+      "negativeEra": {
+        "name": "Era of Apocalypse",
+        "abbr": "EA",
+        "hideAbbr": false,
+        "startsAt": -105190560,
+        "id": "bc",
+        "resetMode": "none"
+      }
+    }
+  ],
+  "resourceCount": 1
+}

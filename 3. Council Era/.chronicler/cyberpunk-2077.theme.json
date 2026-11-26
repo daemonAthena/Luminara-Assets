@@ -1,0 +1,35 @@
+{
+  "vaultSettings": {
+    "activeTheme": "Cyberpunk 2077",
+    "atmosphere": {
+      "icons": "core",
+      "buttons": "core",
+      "textures": "core",
+      "typography": "core",
+      "cursors": "core",
+      "borders": "core",
+      "frames": "core",
+      "uiElements": "core",
+      "soundscape": "core",
+      "clickEffects": "core",
+      "textureOpacity": 1
+    },
+    "headingFont": "\"Orbitron\", sans-serif",
+    "bodyFont": "\"JetBrainsMonoNL NFM Regular\"",
+    "editorFont": "\"IBM Plex Mono\", monospace",
+    "fontSize": 120,
+    "sidebarWidth": 306,
+    "isSidebarVisible": true,
+    "isTocVisible": false,
+    "areInfoboxTagsVisible": true,
+    "areFooterTagsVisible": true,
+    "areLinkPreviewsEnabled": true,
+    "areMapPreviewsEnabled": true,
+    "showImages": true,
+    "showExternalFiles": true,
+    "imageImportLocation": "folder",
+    "imageImportDir": "images",
+    "promptForImageName": false,
+    "welcomeBanner": "scifi"
+  }
+}

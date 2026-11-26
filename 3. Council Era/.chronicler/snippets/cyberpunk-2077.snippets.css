@@ -1,0 +1,163 @@
+
+strong {
+    color:#76FDFF;
+    font-family: "Silkscreen", monospace !important;
+    transform: scale(1,2) !important;
+}
+
+:is(h1, h2, h3, h4, h5, h6) {
+    font-family: "Press Start 2P", bold, monospace !important;
+}
+
+a:link {
+  font-family: "Silkscreen", bolder, monospace !important;
+}
+.callout,
+div[class*="callout"],
+div[class*="personnel"],
+div[class*="log-"] {
+  border-left: 4px solid var(--color, #89cff0) !important;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--color, #89cff0) 13%, transparent), transparent) !important;
+}
+
+.callout .callout-title-inner,
+.callout .callout-content,
+div[class*="callout"] .callout-title-inner,
+div[class*="callout"] .callout-content {
+  opacity: 0.75;
+}
+
+blockquote:not(:has(.callout-title)) {
+  border-left: 4px solid #89cff0;
+  background: linear-gradient(90deg, #89cff022, transparent);
+  padding: 0.75rem 1rem;
+  border-radius: 2px;
+  font-style: normal;
+  letter-spacing: 0.02em;
+  font-family: "JetBrains Mono", monospace;
+  color: #89cff0;
+  opacity: 0.75;
+}
+
+blockquote:not(:has(.callout-title))::before {
+  content: "ℹ | ΓΟΚ Internal Database";
+  color: #89cff0;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  display: block;
+  margin-bottom: 0.25rem;
+  opacity: 1;
+}
+
+.callout .callout-icon { display: none !important; }
+
+.callout .callout-title {
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.callout .callout-title::before {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.25rem;
+  color: var(--color, var(--color-accent-primary, #89cff0));
+  filter: brightness(1.4) saturate(1.2);
+}
+
+.callout .callout-title-inner {
+  padding-left: 0.75rem;
+  font-style: italic;
+  opacity: 0.75;
+}
+
+.callout[data-callout="warning"] {
+  --color: #f9e2af;
+  border-left: 4px solid #f9e2af;
+  background: linear-gradient(90deg, #f9e2af22, transparent);
+}
+
+.callout[data-callout="warning"] .callout-title::before {
+  content: "WARNING| ΓΟΚ Internal Database";
+}
+
+.callout[data-callout="danger"],
+.callout[data-callout="hazard"] {
+  --color: #b026ff;
+  border-left: 4px solid #b026ff;
+  background: linear-gradient(90deg, #b026ff22, transparent);
+}
+
+.callout[data-callout="danger"] .callout-title::before,
+.callout[data-callout="hazard"] .callout-title::before {
+  content: "⚠ HAZARD| Poses a threat to Gorgon Operations";
+}
+
+.callout[data-callout="confidential"] {
+  --color: #ff2a6d;
+  border-left: 4px solid #ff2a6d;
+  background: linear-gradient(90deg, #ff2a6d22, transparent);
+}
+
+.callout[data-callout="confidential"] .callout-title::before {
+  content: "CONFIDENTIAL| ΓΟΚ Internal Database";
+}
+
+.callout[data-callout="personnel"] {
+  --color: #a6e3a1;
+  border-left: 4px solid #a6e3a1;
+  background: linear-gradient(90deg, #a6e3a122, transparent);
+}
+
+.callout[data-callout="personnel"] .callout-title::before {
+  content: "p | ΓΟΚ Personnel Directory";
+}
+
+.note-properties .note-properties-key { width: 10%; }
+.note-properties .note-properties-tags .tag-link { font-size: 0.6rem; }
+
+/* class-based log levels (for Chronicler/HTML) */
+.log-info,
+.log-warning,
+.log-hazard,
+.log-confidential,
+.log-personnel {
+  border-left: 4px solid var(--log-color, #89cff0);
+  background: linear-gradient(90deg, color-mix(in srgb, var(--log-color, #89cff0) 13%, transparent), transparent);
+  padding: 0.75rem 1rem;
+  border-radius: 2px;
+  font-style: normal;
+  letter-spacing: 0.02em;
+  font-family: "JetBrains Mono", monospace;
+  margin: 0.5rem 0;
+  color: var(--log-color, #89cff0);
+  opacity: 0.75;
+}
+
+.log-info { --log-color: #89cff0; }
+.log-warning { --log-color: #f9e2af; }
+.log-hazard { --log-color: #b026ff; }
+.log-confidential { --log-color: #ff2a6d; }
+.log-personnel { --log-color: #a6e3a1; }
+
+.log-info::before,
+.log-warning::before,
+.log-hazard::before,
+.log-confidential::before,
+.log-personnel::before {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.25rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  filter: brightness(1.4) saturate(1.2);
+  opacity: 1;
+}
+
+.log-info::before { content: "ℹ | ΓΟΚ Internal Database"; color: #89cff0; }
+.log-warning::before { content: "WARNING| ΓΟΚ Internal Database"; color: #f9e2af; }
+.log-hazard::before { content: "⚠ HAZARD| Poses a threat to Gorgon Operations"; color: #b026ff; }
+.log-confidential::before { content: "CONFIDENTIAL| ΓΟΚ Internal Database"; color: #ff2a6d; }
+.log-personnel::before { content: "p | ΓΟΚ Personnel Directory"; color: #a6e3a1; }
+"

@@ -1,0 +1,35 @@
+{
+  "vaultSettings": {
+    "activeTheme": "Luminary Growth",
+    "atmosphere": {
+      "icons": "core",
+      "buttons": "fantasy-pack",
+      "textures": "fantasy-pack",
+      "typography": "fantasy-pack",
+      "cursors": "core",
+      "borders": "fantasy-pack",
+      "frames": "fantasy-pack",
+      "uiElements": "fantasy-pack",
+      "soundscape": "core",
+      "clickEffects": "core",
+      "textureOpacity": 0.55
+    },
+    "headingFont": "\"Cinzel\", serif",
+    "bodyFont": "\"Spectral\", serif",
+    "editorFont": "\"IBM Plex Mono\", monospace",
+    "fontSize": 100,
+    "sidebarWidth": 300,
+    "isSidebarVisible": true,
+    "isTocVisible": true,
+    "areInfoboxTagsVisible": true,
+    "areFooterTagsVisible": true,
+    "areLinkPreviewsEnabled": true,
+    "areMapPreviewsEnabled": true,
+    "showImages": true,
+    "showExternalFiles": false,
+    "imageImportLocation": "folder",
+    "imageImportDir": "images",
+    "promptForImageName": false,
+    "welcomeBanner": "default"
+  }
+}
