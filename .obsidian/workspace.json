@@ -203,6 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "3. Council Era/Organizations/Order of the Flower.md",
@@ -218,6 +219,14 @@
     "3. Council Era/Classes/Exconventica.md",
     "3. Council Era/Classes/Luddites.md",
     "3. Council Era/index.md",
+=======
+  "active": "cb4253cf6c635d64",
+  "lastOpenFiles": [
+    "3. Council Era/index.md",
+    "3. Council Era/Classes/Luddites.md",
+    "3. Council Era/Classes/Factions.md",
+    "3. Council Era/Classes/Exconventica.md",
+>>>>>>> origin/dev-katie
     "3. Council Era/_system/templates/Music.md",
     "3. Council Era/_system/templates/Character.md",
     "3. Council Era/_system/templates/Technology.md",
