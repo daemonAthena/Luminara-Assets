@@ -60,8 +60,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a4767fe27502dff5",
@@ -204,14 +203,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a71436c9966b39c1",
+  "active": "658dee8081a0c5ff",
   "lastOpenFiles": [
-    "Untitled.md",
+    "3. Council Era/index.md",
     "3. Council Era/Classes/Luddites.md",
+    "Untitled.md",
     "3. Council Era/Classes/Harpies.md",
     "3. Council Era/Classes/Exconventica.md",
     "3. Council Era/Classes/Factions.md",
-    "3. Council Era/index.md",
     "3. Council Era/_system/templates/Music.md",
     "3. Council Era/_system/templates/Character.md",
     "3. Council Era/_system/templates/Technology.md",
