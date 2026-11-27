@@ -1,7 +1,7 @@
 {
   "remoteURL": "https://github.com/daemonAthena/Luminara-Assets.git",
   "gitLocation": "",
-  "syncinterval": 30,
+  "syncinterval": 5,
   "isSyncOnLoad": true,
   "checkStatusOnLoad": true,
   "noticeLevel": "ALL",
