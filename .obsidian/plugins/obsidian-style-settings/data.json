@@ -1,0 +1,16 @@
+{
+  "obsidian-default-theme@@opacity-translucency-light": 0.69,
+  "obsidian-default-theme@@opacity-translucency-dark": 0.73,
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-pink",
+  "catppuccin-icon-styles@@ctp-icon-hide": false,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": true,
+  "catppuccin-font-styles@@ctp-italic": "var(--ctp-subtext0)",
+  "catppuccin-heading-settings@@ctp-page-title": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h1": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h2": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h4": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-text)",
+  "catppuccin-heading-settings@@ctp-h6": "var(--ctp-text)"
+}

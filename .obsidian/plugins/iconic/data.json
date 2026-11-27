@@ -1,0 +1,229 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "useSearchKeywords": "on",
+  "maxSearchResults": 110,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 2,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "3. Council Era/Luminara Calendar.md": {
+      "icon": "lucide-calendar-days"
+    },
+    "3. Council Era/README.md": {
+      "icon": "lucide-square-dashed-bottom-code"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "vUYBm",
+      "name": "Tech",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Technology"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-flask-conical"
+    },
+    {
+      "id": "GwD7H",
+      "name": "Index",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "index"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-home"
+    },
+    {
+      "id": "qyBa5",
+      "name": "Organizations",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Organizations"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-users"
+    },
+    {
+      "id": "YxfcH",
+      "name": "Character",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Characters"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-user-2"
+    },
+    {
+      "id": "RJ2LW",
+      "name": "Main Character",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "pilot"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-user-star"
+    },
+    {
+      "id": "ywsD5",
+      "name": "Locations",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Locations"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-map-pin"
+    },
+    {
+      "id": "NTmBh",
+      "name": "Classes",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Classes"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shapes"
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "LE9XB",
+      "name": "Locations",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Locations"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-map"
+    },
+    {
+      "id": "2fhFn",
+      "name": "Important Folder",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Locations"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Technology"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Meta"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Organizations"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Characters"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Classes"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Events"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-folder-dot",
+      "color": "cyan"
+    },
+    {
+      "id": "PpTF2",
+      "name": "Minor Folder",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "lyrics"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "image"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "_system"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-folder",
+      "color": "purple"
+    }
+  ]
+}
