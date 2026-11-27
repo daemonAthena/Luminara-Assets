@@ -3,5 +3,6 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "foldHeading": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "propertiesInDocument": "source"
 }
