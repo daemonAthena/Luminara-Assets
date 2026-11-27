@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Luminaran Monarchy"
             }
+          },
+          {
+            "id": "66c21272849d2f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +75,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a4767fe27502dff5",
@@ -86,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#technology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Council Era/Organizations/Luminaran Monarchy.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "658dee8081a0c5ff",
+  "active": "66c21272849d2f85",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "3. Council Era/Organizations/Luminaran Monarchy.md",
+    "Untitled.md",
     "map data/luminara-C/Luminara 2026-11-24-17-45.map",
     "map data/luminara-C/Luminara 2026-11-24-17-39.map",
     "map data/luminara-C/Luminara 2026-11-24-17-11.map",
@@ -214,10 +233,7 @@
     "map data/luminara-C/Luminara 2026-11-24-09-59.map",
     "map data/luminara-C/Luminara 2026-11-24-09-53.map",
     "map data/luminara-C/Luminara 2026-11-24-08-38.map",
-    "map data/luminara-C/Luminara 2026-11-24-07-20.map",
-    "Untitled.md",
     "3. Council Era/Organizations/Order of the Flower.md",
-    "3. Council Era/Organizations/Luminaran Monarchy.md",
     "3. Council Era/Organizations/Young Modellians.md",
     "3. Council Era/Organizations/Council of Angels.md",
     "3. Council Era/Organizations/Gorgon Operations Koros.md",
