@@ -56,7 +56,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a4767fe27502dff5",
@@ -197,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b426c7ec62117d3",
+  "active": "cb4253cf6c635d64",
   "lastOpenFiles": [
     "3. Council Era/Classes/Polities/Untitled.md",
     "Untitled 1.md",
