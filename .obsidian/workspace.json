@@ -60,7 +60,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a4767fe27502dff5",
@@ -203,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cb4253cf6c635d64",
   "lastOpenFiles": [
     "3. Council Era/Organizations/Order of the Flower.md",
     "3. Council Era/Organizations/Luminaran Monarchy.md",
+    "3. Council Era/Organizations/Young Modellians.md",
     "3. Council Era/Organizations/Council of Angels.md",
     "3. Council Era/Organizations/Gorgon Operations Koros.md",
     "3. Council Era/Technology/ACE.md",
@@ -230,7 +232,6 @@
     "3. Council Era/Luminara Calendar.md",
     "Untitled.md",
     "_system/templates/Technology.md",
-    "_system/templates/Music.md",
     "_system/templates",
     "_system",
     "Untitled",

@@ -3,8 +3,8 @@ title:
 tags: []
 ---
 
-<div class="log-confidential">
-    The old order must be destroyed.
+<div class="log-info">
+The old order must be destroyed.
 </div>
 
 The Kingdom of Luminara was declared 1st Blossoming, 420 E2 is the predecessor to the Luminara of today. 
