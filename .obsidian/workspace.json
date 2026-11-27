@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Council Era/Characters/Belial.md",
+                "file": "3. Council Era/Organizations/Order of the Flower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belial"
+              "title": "Order of the Flower"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Council Era/Characters/Belial.md",
+                "file": "3. Council Era/Organizations/Order of the Flower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Council Era/Characters/Belial.md",
+                "file": "3. Council Era/Organizations/Order of the Flower.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Council Era/Characters/Belial.md",
+                "file": "3. Council Era/Organizations/Order of the Flower.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,10 +201,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "658dee8081a0c5ff",
   "lastOpenFiles": [
-    "2. Kingdom Era/People/Calantha.md",
+    "New folder",
+    "3. Council Era/Transition Days.md",
+    "3. Council Era/README.md",
+    "3. Council Era/Luminara Calendar.md",
     "3. Council Era/Characters/Belial.md",
+    "2. Kingdom Era/People/Calantha.md",
     "3. Council Era/index.md",
     "3. Council Era/Classes/Romanticists.md",
     "3. Council Era/Organizations/Young Modellians.md",
@@ -225,10 +229,6 @@
     "3. Council Era/Characters/Zenia.md",
     "3. Council Era/Characters/Ahavah.md",
     "3. Council Era/Characters/Ampersat.md",
-    "3. Council Era/README.md",
-    "3. Council Era/Luminara Calendar.md",
-    "_system/templates/Technology.md",
-    "_system/templates/Music.md",
     "_system/templates",
     "_system",
     "Untitled",
