@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec440173e80061c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b426c7ec62117d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6ddcec6fa0e3ed8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bb688cbf2e7a714",
+        "type": "tabs",
+        "dimension": 66.63385826771653,
+        "children": [
+          {
+            "id": "658dee8081a0c5ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a4767fe27502dff5",
+        "type": "tabs",
+        "dimension": 33.36614173228347,
+        "children": [
+          {
+            "id": "698f4739ea76c1cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9a926840e8f64d7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#technology",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.0375633239746
+  },
+  "right": {
+    "id": "f11044648effa49f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcbeb99aa8edb29f",
+        "type": "tabs",
+        "dimension": 70.03780718336485,
+        "children": [
+          {
+            "id": "2c59284c93e551da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Council Era/Organizations/Order of the Flower.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e38ba603105457bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "418edd23e9fa0ead",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Council Era/Organizations/Order of the Flower.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7dbf249589a18374",
+        "type": "tabs",
+        "dimension": 29.96219281663516,
+        "children": [
+          {
+            "id": "640f11c60234de75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "council-"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.760986328125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": true,
+      "switcher:Open quick switcher": true,
+      "github-sync:Sync with Remote": false,
+      "homepage:Open homepage": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cb4253cf6c635d64",
+  "lastOpenFiles": [
+    "3. Council Era/Classes/Polities/Untitled.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "3. Council Era/Classes/Exconventica.md",
+    "3. Council Era/images/Pasted image 20261127030740.png",
+    "3. Council Era/Classes/Polities/Modellia.md",
+    "map data/Luminara 2026-11-27-02-58.svg",
+    "3. Council Era/Classes/Polities",
+    "map data/Luminara Full 2026-11-27-03-01.json",
+    "3. Council Era/Transition Days.md",
+    "3. Council Era/Organizations/Luminaran Monarchy.md",
+    "map data/Luminara 2026-11-27-02-57.svg",
+    "map data/Luminara 2026-11-27-02-53.svg",
+    "map data/luminara-C/Luminara 2026-11-24-17-45.map",
+    "map data/luminara-C/Luminara 2026-11-24-17-39.map",
+    "map data/luminara-C/Luminara 2026-11-24-17-11.map",
+    "map data/luminara-C/Luminara 2026-11-24-16-07.map",
+    "map data/luminara-C/Luminara 2026-11-24-11-06.map",
+    "map data/luminara-C/Luminara 2026-11-24-10-57.map",
+    "map data/luminara-C/Luminara 2026-11-24-10-21.map",
+    "map data/luminara-C/Luminara 2026-11-24-09-59.map",
+    "3. Council Era/Organizations/Order of the Flower.md",
+    "3. Council Era/Organizations/Young Modellians.md",
+    "3. Council Era/Organizations/Council of Angels.md",
+    "3. Council Era/Organizations/Gorgon Operations Koros.md",
+    "3. Council Era/Technology/ACE.md",
+    "3. Council Era/Technology/Communication with Animals.md",
+    "3. Council Era/Technology/Calantha's Return.md",
+    "3. Council Era/Classes/Harpies.md",
+    "3. Council Era/Classes/Factions.md",
+    "3. Council Era/Classes/Luddites.md",
+    "3. Council Era/index.md",
+    "3. Council Era/_system/templates/Music.md",
+    "3. Council Era/_system/templates/Character.md",
+    "3. Council Era/_system/templates/Technology.md",
+    "3. Council Era/_system/templates/Organizations.md",
+    "3. Council Era/_system/templates/Locations.md",
+    "2. Kingdom Era/index.md",
+    "3. Council Era/Characters/Zenia.md",
+    "3. Council Era/Characters/Ahavah.md"
+  ]
+}
