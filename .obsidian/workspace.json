@@ -45,16 +45,6 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "cb4253cf6c635d64",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 1
@@ -94,8 +84,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Council Era/Classes/Luddites.md",
+                "file": "3. Council Era/Organizations/Order of the Flower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Council Era/Classes/Luddites.md",
+                "file": "3. Council Era/Organizations/Order of the Flower.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,8 +162,8 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "council-"
               },
               "icon": "lucide-tags",
               "title": "Tags"
