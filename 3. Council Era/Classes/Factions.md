@@ -18,7 +18,7 @@ Many of the conservative factions are derived from polycule [[cadres]] of techno
 At the start of our great nation we boldly declared a **promise** that girls would be unimpeded in their quest for freedom and care.
 
 ## 
-
+adsad
 Memory is sequential. Memory is volataile. The world mimics memory unfolding in a CPU.
 
 

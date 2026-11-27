@@ -4,5 +4,7 @@
   "strictLineBreaks": false,
   "foldHeading": true,
   "showLineNumber": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "3. Council Era/images"
 }
