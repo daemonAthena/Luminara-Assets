@@ -49,16 +49,6 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "cb4253cf6c635d64",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ]
       },
@@ -201,7 +191,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "658dee8081a0c5ff",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Hello World.txt",
     "New Text Document.txt",
