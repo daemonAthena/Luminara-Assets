@@ -1,6 +1,8 @@
 {
   "showRibbon": true,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "callouts"
+  ],
   "cssTheme": "Catppuccin",
   "baseFontSizeAction": true,
   "accentColor": "#ed87c3"
