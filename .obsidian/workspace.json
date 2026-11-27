@@ -60,7 +60,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a4767fe27502dff5",
@@ -201,7 +202,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "658dee8081a0c5ff",
+  "active": "cb4253cf6c635d64",
   "lastOpenFiles": [
     "Hello World.txt",
     "New Text Document.txt",
