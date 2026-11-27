@@ -8,6 +8,7 @@ The old order must be destroyed.
 </div>
 
 Hello world
+Hello world 2
 The Kingdom of Luminara was declared 1st Blossoming, 420 E2 is the predecessor to the Luminara of today. 
 It was a **federal parliamentary consensus-based democratic monarchy**
 
