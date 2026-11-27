@@ -2,5 +2,6 @@
   "showRibbon": true,
   "enabledCssSnippets": [],
   "cssTheme": "Catppuccin",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": "#ed87c3"
 }

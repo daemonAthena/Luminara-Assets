@@ -61,9 +61,9 @@
       "match": "all",
       "conditions": [
         {
-          "source": "name",
+          "source": "filename",
           "operator": "is",
-          "value": "index"
+          "value": "index.md"
         }
       ],
       "enabled": true,
