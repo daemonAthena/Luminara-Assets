@@ -3,7 +3,7 @@ title:
 tags: []
 ---
 
-<div class="log-classified">
+<div class="log-confidential">
     The old order must be destroyed.
 </div>
 

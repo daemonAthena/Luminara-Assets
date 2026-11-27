@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Council Era/Classes/Luddites.md",
+                "file": "3. Council Era/Organizations/Luminaran Monarchy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luddites"
+              "title": "Luminaran Monarchy"
             }
           }
         ]
@@ -60,8 +60,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a4767fe27502dff5",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Council Era/Classes/Luddites.md",
+                "file": "3. Council Era/Organizations/Luminaran Monarchy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,25 +188,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.760986328125
+    "width": 299.760986328125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
-      "iconic:Open rulebook": true,
-      "file-tree-alternative:File Tree Alternative Plugin": true,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "homepage:Open homepage": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a926840e8f64d7e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. Council Era/Organizations/Order of the Flower.md",
+    "3. Council Era/Organizations/Luminaran Monarchy.md",
+    "3. Council Era/Organizations/Council of Angels.md",
+    "3. Council Era/Organizations/Gorgon Operations Koros.md",
+    "3. Council Era/Technology/ACE.md",
+    "3. Council Era/Technology/Communication with Animals.md",
+    "3. Council Era/Technology/Calantha's Return.md",
+    "3. Council Era/Classes/Harpies.md",
     "3. Council Era/Classes/Factions.md",
     "3. Council Era/Classes/Exconventica.md",
+    "3. Council Era/Classes/Luddites.md",
     "3. Council Era/index.md",
     "3. Council Era/_system/templates/Music.md",
     "3. Council Era/_system/templates/Character.md",
@@ -215,7 +223,6 @@
     "3. Council Era/_system/templates/Organizations.md",
     "3. Council Era/_system/templates/Locations.md",
     "2. Kingdom Era/index.md",
-    "3. Council Era/Classes/Luddites.md",
     "3. Council Era/Characters/Zenia.md",
     "3. Council Era/Characters/Ahavah.md",
     "3. Council Era/Characters/Ampersat.md",
@@ -224,14 +231,9 @@
     "Untitled.md",
     "_system/templates/Technology.md",
     "_system/templates/Music.md",
-    "_system/templates/Locations.md",
-    "_system/templates/Organizations.md",
-    "_system/templates/Character.md",
     "_system/templates",
     "_system",
-    "3. Council Era/Untitled.md",
     "Untitled",
-    "Untitled.base",
-    "1. Foundation Era/index.md.md"
+    "Untitled.base"
   ]
 }
