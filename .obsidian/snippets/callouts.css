@@ -1,17 +1,17 @@
 
 /* Unique log colors */
-[class*="info"] { --log-color: #89cff0; }
-[class*="warning"] { --log-color: #f9e2af; }
-[class*="hazard"] { --log-color: #b026ff; }
-[class*="confidential"] { --log-color: #ff2a6d; }
-[class*="personnel"] { --log-color: #a6e3a1; }
+[class*="log-info"] { --log-color: #89cff0; }
+[class*="log-warning"] { --log-color: #f9e2af; }
+[class*="log-hazard"] { --log-color: #b026ff; }
+[class*="log-confidential"] { --log-color: #ff2a6d; }
+[class*="log-personnel"] { --log-color: #a6e3a1; }
 
 /* Status message Content */
-[class*="info"]::before { content: "ℹ | ΓΟΚ Internal Database"; color: #89cff0; }
-[class*="warning"]::before { content: "WARNING| ΓΟΚ Internal Database"; color: #f9e2af; }
-[class*="hazard"]::before { content: "⚠ HAZARD| Poses a threat to Gorgon Operations"; color: #b026ff; }
-[class*="confidential"]::before { content: "CONFIDENTIAL| ΓΟΚ Internal Database"; color: #ff2a6d; }
-[class*="personnel"]::before { content: "p | ΓΟΚ Personnel Directory"; color: #a6e3a1; }
+[class*="log-info"]::before { content: "ℹ | ΓΟΚ Internal Database"; color: #89cff0; }
+[class*="log-warning"]::before { content: "WARNING| ΓΟΚ Internal Database"; color: #f9e2af; }
+[class*="log-hazard"]::before { content: "⚠ HAZARD| Poses a threat to Gorgon Operations"; color: #b026ff; }
+[class*="log-confidential"]::before { content: "CONFIDENTIAL| ΓΟΚ Internal Database"; color: #ff2a6d; }
+[class*="log-personnel"]::before { content: "p | ΓΟΚ Personnel Directory"; color: #a6e3a1; }
 
 
 strong {
