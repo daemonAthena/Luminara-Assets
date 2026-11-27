@@ -1,0 +1,56 @@
+
+/* Unique log colors */
+[class*="log-info"] { --log-color: #89cff0; }
+[class*="log-warning"] { --log-color: #f9e2af; }
+[class*="log-hazard"] { --log-color: #b026ff; }
+[class*="log-confidential"] { --log-color: #ff2a6d; }
+[class*="log-personnel"] { --log-color: #a6e3a1; }
+
+/* Status message Content */
+[class*="log-info"]::before { content: "ℹ | ΓΟΚ Internal Database"; color: #89cff0; }
+[class*="log-warning"]::before { content: "WARNING| ΓΟΚ Internal Database"; color: #f9e2af; }
+[class*="log-hazard"]::before { content: "⚠ HAZARD| Poses a threat to Gorgon Operations"; color: #b026ff; }
+[class*="log-confidential"]::before { content: "CONFIDENTIAL| ΓΟΚ Internal Database"; color: #ff2a6d; }
+[class*="log-personnel"]::before { content: "p | ΓΟΚ Personnel Directory"; color: #a6e3a1; }
+
+
+strong {
+    color:#76FDFF;
+    font-family: "Silkscreen", monospace !important;
+    transform: scale(1,2) !important;
+}
+
+:is(h1, h2, h3, h4, h5, h6) {
+    font-family: "Press Start 2P", bold, monospace !important;
+}
+
+a:link {
+  font-family: "Silkscreen", bolder, monospace !important;
+}
+
+/* Log message box */
+[class^="log-"], .log {
+  border-left: 4px solid var(--log-color, #89cff0)!important;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--log-color, #89cff0) 13%, transparent), transparent)!important;
+  padding: 0.5rem 1rem;
+  border-radius: 2px;
+  font-style: normal;
+  letter-spacing: 0.02em;
+  font-family: "JetBrains Mono", monospace;
+  /* margin: 0.5rem 0; */
+  color: var(--log-color, #89cff0);
+  opacity: 0.75;
+}
+
+/* Status Message Formatting */
+[class^="log-"]::before, .log::before
+{
+  display: block;
+  width: 100%;
+  margin-bottom: 0.25rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  filter: brightness(1.4) saturate(1.2);
+  opacity: 1;
+}
+

@@ -4,6 +4,7 @@ tags: [technology, meta, council-of-angels, endgame, arbitrary-code-execution, n
 ---
 // Alpha Top Secret
 // TODO- Implement unique log
+
 <div class="log-confidential"> Arbitrary Code Execution: stop arguing with the world. Overwrite it. </div>
 
 ACE, **Arbitrary Code Execution**, is the nickname for the Council of Angels' objective. In computing, ACE is the god-exploit: get your code running on a system and you do not argue with it, you are it. The Council's ACE means: stop fighting over what is natural, human, and good, and simply execute their definitions at the root.
