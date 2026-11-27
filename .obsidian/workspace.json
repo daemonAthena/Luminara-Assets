@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ec440173e80061c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7b426c7ec62117d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Council Era/Organizations/Order of the Flower.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Order of the Flower"
+              "title": "New tab"
             }
           }
         ]
@@ -50,7 +46,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a4767fe27502dff5",
@@ -76,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#technology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Council Era/Organizations/Order of the Flower.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,37 +177,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
-      "iconic:Open rulebook": true,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "homepage:Open homepage": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cb4253cf6c635d64",
   "lastOpenFiles": [
-    "Hello World.txt",
-    "New Text Document.txt",
-    "New folder",
+    "3. Council Era/Classes/Polities/Untitled.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "3. Council Era/Classes/Exconventica.md",
+    "3. Council Era/images/Pasted image 20261127030740.png",
+    "3. Council Era/Classes/Polities/Modellia.md",
+    "map data/Luminara 2026-11-27-02-58.svg",
+    "3. Council Era/Classes/Polities",
+    "map data/Luminara Full 2026-11-27-03-01.json",
     "3. Council Era/Transition Days.md",
-    "3. Council Era/README.md",
-    "3. Council Era/Luminara Calendar.md",
-    "3. Council Era/Characters/Belial.md",
-    "2. Kingdom Era/People/Calantha.md",
-    "3. Council Era/index.md",
-    "3. Council Era/Classes/Romanticists.md",
+    "3. Council Era/Organizations/Luminaran Monarchy.md",
+    "map data/Luminara 2026-11-27-02-57.svg",
+    "map data/Luminara 2026-11-27-02-53.svg",
+    "map data/luminara-C/Luminara 2026-11-24-17-45.map",
+    "map data/luminara-C/Luminara 2026-11-24-17-39.map",
+    "map data/luminara-C/Luminara 2026-11-24-17-11.map",
+    "map data/luminara-C/Luminara 2026-11-24-16-07.map",
+    "map data/luminara-C/Luminara 2026-11-24-11-06.map",
+    "map data/luminara-C/Luminara 2026-11-24-10-57.map",
+    "map data/luminara-C/Luminara 2026-11-24-10-21.map",
+    "map data/luminara-C/Luminara 2026-11-24-09-59.map",
+    "3. Council Era/Organizations/Order of the Flower.md",
     "3. Council Era/Organizations/Young Modellians.md",
     "3. Council Era/Organizations/Council of Angels.md",
-    "3. Council Era/Classes/Untitled.md",
-    "3. Council Era/Classes/Exconventica.md",
+    "3. Council Era/Organizations/Gorgon Operations Koros.md",
+    "3. Council Era/Technology/ACE.md",
+    "3. Council Era/Technology/Communication with Animals.md",
+    "3. Council Era/Technology/Calantha's Return.md",
+    "3. Council Era/Classes/Harpies.md",
     "3. Council Era/Classes/Factions.md",
     "3. Council Era/Classes/Luddites.md",
-    "2. Kingdom Era/Culture/Artemai.md",
-    "Untitled.md",
-    "3. Council Era/Classes/Harpies.md",
+    "3. Council Era/index.md",
     "3. Council Era/_system/templates/Music.md",
     "3. Council Era/_system/templates/Character.md",
     "3. Council Era/_system/templates/Technology.md",
@@ -219,11 +228,6 @@
     "3. Council Era/_system/templates/Locations.md",
     "2. Kingdom Era/index.md",
     "3. Council Era/Characters/Zenia.md",
-    "3. Council Era/Characters/Ahavah.md",
-    "3. Council Era/Characters/Ampersat.md",
-    "_system/templates",
-    "_system",
-    "Untitled",
-    "Untitled.base"
+    "3. Council Era/Characters/Ahavah.md"
   ]
 }
