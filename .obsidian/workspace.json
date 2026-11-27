@@ -86,8 +86,19 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "cb4253cf6c635d64",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7dbf249589a18374",
@@ -177,11 +188,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.105224609375
   },
   "left-ribbon": {
     "hiddenItems": {
       "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false,
       "templates:Insert template": false,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
@@ -191,7 +203,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "418edd23e9fa0ead",
   "lastOpenFiles": [
     "3. Council Era/_system/templates/Character.md",
     "3. Council Era/_system/templates/Music.md",
