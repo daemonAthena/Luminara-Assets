@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Council Era/Classes/Luddites.md",
+                "file": "3. Council Era/Classes/Exconventica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luddites"
+              "title": "Exconventica"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Council Era/Classes/Luddites.md",
+                "file": "3. Council Era/Classes/Exconventica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Council Era/Classes/Luddites.md",
+                "file": "3. Council Era/Classes/Exconventica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Council Era/Classes/Luddites.md",
+                "file": "3. Council Era/Classes/Exconventica.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,14 +203,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "658dee8081a0c5ff",
+  "active": "a71436c9966b39c1",
   "lastOpenFiles": [
-    "3. Council Era/index.md",
+    "3. Council Era/Classes/Factions.md",
     "3. Council Era/Classes/Luddites.md",
+    "2. Kingdom Era/Culture/Artemai.md",
+    "3. Council Era/index.md",
     "Untitled.md",
     "3. Council Era/Classes/Harpies.md",
     "3. Council Era/Classes/Exconventica.md",
-    "3. Council Era/Classes/Factions.md",
     "3. Council Era/_system/templates/Music.md",
     "3. Council Era/_system/templates/Character.md",
     "3. Council Era/_system/templates/Technology.md",
