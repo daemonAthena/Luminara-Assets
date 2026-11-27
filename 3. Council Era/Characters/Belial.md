@@ -37,7 +37,7 @@ She is an extreme militarist. She is highly unsure of herself and will generally
 
 She tells herself that her parents were traitors and that they were setting her up for failure in the current world. By all measures of her society they are effectively hippies. She can't shake the intense guilt and loneliness the betrayal has left her with but she feels its too late to admit she might have been wrong because who is left to love her?
 
-She has heard stories about Calantha and the Princess but wouldn't dare speak them. Anyone who did though, would get the glare of an apex predator.
+She has heard stories about [[Calantha]] and the Princess but wouldn't dare speak them. Anyone who did though, would get the glare of an apex predator.
 
 ## Relationships
 
